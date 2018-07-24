@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1474741864 source:d:\prgs\maxmindc\main.c
+	<stdio.h>
+	<stdlib.h>
+

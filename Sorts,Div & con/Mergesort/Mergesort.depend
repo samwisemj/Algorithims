@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1474744863 source:d:\prgs\mergesort\main.c
+	<stdio.h>
+	<conio.h>
+
